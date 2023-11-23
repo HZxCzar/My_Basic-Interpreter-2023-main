@@ -1,0 +1,9 @@
+**/*.o
+**/*.a
+*.log
+score
+.idea/
+.vscode/
+cmake-build-debug/
+StanfordCPPLib/
+Test/
